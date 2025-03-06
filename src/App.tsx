@@ -252,6 +252,15 @@ function App() {
                 universalLink: 'https://wallet.tonkeeper.com/ton-connect',
                 bridgeUrl: "https://bridge.tonapi.io/bridge",
                 platforms: ["ios", "android", "macos", "windows", "linux"]
+              },
+              {
+                appName: 'tonpocket',
+                name: 'TonPocket',
+                imageUrl: 'https://raw.githubusercontent.com/riodevista/demo-dapp-with-react-ui/refs/heads/master/ton%20pocket_square_288.png',
+                aboutUrl: 'https://tonpocket.tilda.ws/',
+                universalLink: 'https://tonpocket.com/ton-connect',
+                bridgeUrl: "https://tonpocket.com/rs-bridge",
+                platforms: ["android"]
               }
             ]
           }}
